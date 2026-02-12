@@ -1,7 +1,7 @@
 # Hi, I'm Lei Lorenz Xavier A. Gomelan 👋
 
 I'm a **BS Information Technology student** in Davao del Norte State College based in Panabo City, Philippines, focused on building **mobile and web applications**.  
-I enjoy turning ideas into real systems — especially projects involving **Firebase**, **Flutter**, **Angular** and **clean UI/UX**.
+I enjoy turning ideas into real systems, especially projects involving **Firebase**, **Flutter**, **Angular** and **clean UI/UX**.
 
 ---
 
