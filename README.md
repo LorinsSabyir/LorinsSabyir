@@ -11,7 +11,7 @@ I enjoy turning ideas into real systems, especially projects involving **Firebas
 - 🌐 Build web apps using **Angular**, **PHP**, and **Laravel**
 - 🗄️ Work with databases like **MySQL**, **Firebase Firestore**, and **Supabase**
 - 🎨 Design interfaces using **Figma**
-- 🧠 Interested in **Machine Learning** and **IoT**
+- 🧠 Interested in **Machine Learning**, **Networking** and **IoT**
 
 ---
 
